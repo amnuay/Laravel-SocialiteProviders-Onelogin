@@ -1,7 +1,6 @@
 # Laravel-SocialiteProviders-Onelogin
-
-# file :  composer.json   Add   "SocialiteProviders\\Onelogin\\": "SocialiteProviders/src/Onelogin/"
-
+* 1.Download code Save add Folder name  "SocialiteProviders" in folder  Laravel project
+* 2.Edit File :  composer.json   Add   "SocialiteProviders\\Onelogin\\": "SocialiteProviders/src/Onelogin/"
 
 ```
 ...
